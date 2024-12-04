@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_028_Console_test_for_dll</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\028-DLLTest\028-DLLTest.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="028-DLLTest">
+      <HintPath>..\028-DLLTest\bin\Debug\net6.0\028-DLLTest.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

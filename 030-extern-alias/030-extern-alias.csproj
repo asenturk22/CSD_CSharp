@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_030_extern_alias</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="030-A">
+      <HintPath>..\030-A\bin\Debug\net6.0\030-A.dll</HintPath>
+      <Aliases>ACompany</Aliases>
+    </Reference>
+    <Reference Include="030-B">
+      <HintPath>..\030-B\bin\Debug\net6.0\030-B.dll</HintPath>
+      <Aliases>BCompany</Aliases>
+    </Reference>
+  </ItemGroup>
+
+</Project>
