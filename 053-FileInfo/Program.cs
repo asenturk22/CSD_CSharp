@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            FileInfo fi = new FileInfo("053-FileInfo.exe");
+            Console.WriteLine(fi.Exists ? "Dosya Var" : "Dosya Yok");
+            Console.WriteLine(fi.Length);
+
         }
     }
 }
