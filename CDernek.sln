@@ -155,83 +155,99 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "042-boxing-unboxing", "042-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "043-Collection", "043-Collection\043-Collection.csproj", "{FED28E04-4EDE-410A-880C-AA70273EDECB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043-ArrayList-IEnumerable", "043-ArrayList-IEnumerable\043-ArrayList-IEnumerable.csproj", "{A29C25DE-B77E-45C4-908A-73769DCAB10C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "043-ArrayList-IEnumerable", "043-ArrayList-IEnumerable\043-ArrayList-IEnumerable.csproj", "{A29C25DE-B77E-45C4-908A-73769DCAB10C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044-ArrayList-Insert", "044-ArrayList-Insert\044-ArrayList-Insert.csproj", "{B063F195-28A3-43B2-A755-165DE3BFDB3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044-ArrayList-Insert", "044-ArrayList-Insert\044-ArrayList-Insert.csproj", "{B063F195-28A3-43B2-A755-165DE3BFDB3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044-ArrayList-RemoveAt", "044-ArrayList-RemoveAt\044-ArrayList-RemoveAt.csproj", "{37433E8F-1418-42C8-8304-EF7507527780}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044-ArrayList-RemoveAt", "044-ArrayList-RemoveAt\044-ArrayList-RemoveAt.csproj", "{37433E8F-1418-42C8-8304-EF7507527780}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044-ArrayList-Clear", "044-ArrayList-Clear\044-ArrayList-Clear.csproj", "{4DFA2520-5A31-426F-ADD8-5B01C29375A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044-ArrayList-Clear", "044-ArrayList-Clear\044-ArrayList-Clear.csproj", "{4DFA2520-5A31-426F-ADD8-5B01C29375A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044-ArrayList-Sort", "044-ArrayList-Sort\044-ArrayList-Sort.csproj", "{529A3F82-04E7-4EC1-9850-A5619F71F49B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044-ArrayList-Sort", "044-ArrayList-Sort\044-ArrayList-Sort.csproj", "{529A3F82-04E7-4EC1-9850-A5619F71F49B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044-ArrayList-Reverse", "044-ArrayList-Reverse\044-ArrayList-Reverse.csproj", "{89763B0D-CEBB-48EA-BD0B-E02C4D347555}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044-ArrayList-Reverse", "044-ArrayList-Reverse\044-ArrayList-Reverse.csproj", "{89763B0D-CEBB-48EA-BD0B-E02C4D347555}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045-Polymorphism", "045-Polymorphism\045-Polymorphism.csproj", "{6F1715FF-7A98-437E-83F7-A24B9EB49D9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045-Polymorphism", "045-Polymorphism\045-Polymorphism.csproj", "{6F1715FF-7A98-437E-83F7-A24B9EB49D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045-Polymorphism-Calc", "045-Polymorphism-Calc\045-Polymorphism-Calc.csproj", "{42E66B8B-5F8E-484E-A50F-94C479F43FCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045-Polymorphism-Calc", "045-Polymorphism-Calc\045-Polymorphism-Calc.csproj", "{42E66B8B-5F8E-484E-A50F-94C479F43FCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045-Polymorphism-ToString", "045-Polymorphism-ToString\045-Polymorphism-ToString.csproj", "{A280D2DE-BC6C-497B-AFDB-60905BA097CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045-Polymorphism-ToString", "045-Polymorphism-ToString\045-Polymorphism-ToString.csproj", "{A280D2DE-BC6C-497B-AFDB-60905BA097CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045-Parse", "045-Polymorphism-Parse\045-Parse.csproj", "{DC8AF277-C9C7-4753-9A45-07A65383D31E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045-Parse", "045-Polymorphism-Parse\045-Parse.csproj", "{DC8AF277-C9C7-4753-9A45-07A65383D31E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045-Polymorphism-top-oyunu", "045-Polymorphism-top-oyunu\045-Polymorphism-top-oyunu.csproj", "{5C5F793A-5E2D-4AC4-BD02-E0CCFC84EB85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045-Polymorphism-top-oyunu", "045-Polymorphism-top-oyunu\045-Polymorphism-top-oyunu.csproj", "{5C5F793A-5E2D-4AC4-BD02-E0CCFC84EB85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045-Polymorphism-Parser-Ornek", "045-Polymorphism-Parser-Ornek\045-Polymorphism-Parser-Ornek.csproj", "{3A9A988C-D5CC-48B7-AD1A-471C5AA8E39B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045-Polymorphism-Parser-Ornek", "045-Polymorphism-Parser-Ornek\045-Polymorphism-Parser-Ornek.csproj", "{3A9A988C-D5CC-48B7-AD1A-471C5AA8E39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045-Polymorphism-Tetris", "045-Polymorphism-Tetris\045-Polymorphism-Tetris.csproj", "{0D906711-08B7-4EEF-BB61-7CABD80C87A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "045-Polymorphism-Tetris", "045-Polymorphism-Tetris\045-Polymorphism-Tetris.csproj", "{0D906711-08B7-4EEF-BB61-7CABD80C87A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046-Abstract", "046-Abstract\046-Abstract.csproj", "{764CAF34-23C4-4101-8BFC-6D74F3114DF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "046-Abstract", "046-Abstract\046-Abstract.csproj", "{764CAF34-23C4-4101-8BFC-6D74F3114DF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046-Abstract-tetris", "046-Abstract-tetris\046-Abstract-tetris.csproj", "{F02A013C-827B-4366-8ADA-58A19AEFCEAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "046-Abstract-tetris", "046-Abstract-tetris\046-Abstract-tetris.csproj", "{F02A013C-827B-4366-8ADA-58A19AEFCEAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046-Abstract-Property", "046-Abstract-Property\046-Abstract-Property.csproj", "{C15FBDC0-5CF8-4F40-B686-7F368347ABB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "046-Abstract-Property", "046-Abstract-Property\046-Abstract-Property.csproj", "{C15FBDC0-5CF8-4F40-B686-7F368347ABB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-null-referance", "047-null-referance\047-null-referance.csproj", "{25B57D94-0D62-4393-8138-B73A7A726A94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-null-referance", "047-null-referance\047-null-referance.csproj", "{25B57D94-0D62-4393-8138-B73A7A726A94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-this", "047-this\047-this.csproj", "{A8CF52C7-B0E5-4DCD-98AD-681FEC656E55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-this", "047-this\047-this.csproj", "{A8CF52C7-B0E5-4DCD-98AD-681FEC656E55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-base", "047-base\047-base.csproj", "{9BAE33A6-C1F1-4ABF-A273-F6A66F18AAD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-base", "047-base\047-base.csproj", "{9BAE33A6-C1F1-4ABF-A273-F6A66F18AAD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-delegates", "047-delegates\047-delegates.csproj", "{22A2D4A5-26A9-463B-AE81-4C1B11D88CAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-delegates", "047-delegates\047-delegates.csproj", "{22A2D4A5-26A9-463B-AE81-4C1B11D88CAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-delegates-event", "047-delegates-event\047-delegates-event.csproj", "{7795BEBC-AFB8-4B5B-920D-61C723BC7718}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-delegates-event", "047-delegates-event\047-delegates-event.csproj", "{7795BEBC-AFB8-4B5B-920D-61C723BC7718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-delegates-event-2", "047-delegates-event-2\047-delegates-event-2.csproj", "{80864FF8-EEC0-42FF-8E6C-20D4010D3D20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-delegates-event-2", "047-delegates-event-2\047-delegates-event-2.csproj", "{80864FF8-EEC0-42FF-8E6C-20D4010D3D20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-delegates-event-3", "047-delegates-event-3\047-delegates-event-3.csproj", "{DA04D474-A9AA-4B4A-83F1-81E02ED0AD96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-delegates-event-3", "047-delegates-event-3\047-delegates-event-3.csproj", "{DA04D474-A9AA-4B4A-83F1-81E02ED0AD96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-delegates-event-4", "047-delegates-event-4\047-delegates-event-4.csproj", "{B7A3B58C-0CB4-4DC0-8753-C52E5733C07F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-delegates-event-4", "047-delegates-event-4\047-delegates-event-4.csproj", "{B7A3B58C-0CB4-4DC0-8753-C52E5733C07F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-delegates_", "047-delegates_\047-delegates_.csproj", "{2FAC5975-3769-417B-AD58-E6FADBF9EE2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-delegates_", "047-delegates_\047-delegates_.csproj", "{2FAC5975-3769-417B-AD58-E6FADBF9EE2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-delegates-Anonymous", "047-delegates-Anonymous\047-delegates-Anonymous.csproj", "{BD892729-7980-4D99-AA82-66F3DBFD93AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "047-delegates-Anonymous", "047-delegates-Anonymous\047-delegates-Anonymous.csproj", "{BD892729-7980-4D99-AA82-66F3DBFD93AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "048-MyGUIProject", "048-MyGUIProject\048-MyGUIProject.csproj", "{8579795D-D679-4FAA-ABB6-128C818DD1A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049-Exception", "049-Exception\049-Exception.csproj", "{05B6993F-6EF3-4D1C-83C2-6416DF31281A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "049-Exception", "049-Exception\049-Exception.csproj", "{05B6993F-6EF3-4D1C-83C2-6416DF31281A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049-Exception-2", "049-Exception-2\049-Exception-2.csproj", "{74B78C39-F93D-4D9A-A216-58016E1D72DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "049-Exception-2", "049-Exception-2\049-Exception-2.csproj", "{74B78C39-F93D-4D9A-A216-58016E1D72DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049-Exception-3", "049-Exception-3\049-Exception-3.csproj", "{E513258B-8B56-423E-9FC8-31DA8B250484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "049-Exception-3", "049-Exception-3\049-Exception-3.csproj", "{E513258B-8B56-423E-9FC8-31DA8B250484}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049-Exception-4", "049-Exception-4\049-Exception-4.csproj", "{54C588BA-B16E-48B1-B2DD-68B04301539D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "049-Exception-4", "049-Exception-4\049-Exception-4.csproj", "{54C588BA-B16E-48B1-B2DD-68B04301539D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050-Interfaces", "050-Interfaces\050-Interfaces.csproj", "{B957893A-EAAD-41E5-94BE-4872064B1C83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050-Interfaces", "050-Interfaces\050-Interfaces.csproj", "{B957893A-EAAD-41E5-94BE-4872064B1C83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050-050-Interfaces-abstract", "050-050-Interfaces-abstract\050-050-Interfaces-abstract.csproj", "{9F9FCDD9-D3F8-4067-8C79-93D7470CF38C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050-050-Interfaces-abstract", "050-050-Interfaces-abstract\050-050-Interfaces-abstract.csproj", "{9F9FCDD9-D3F8-4067-8C79-93D7470CF38C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050-Interfaces-reimplementation", "050-Interfaces-reimplementation\050-Interfaces-reimplementation.csproj", "{AEF1E561-0723-4772-A507-55FBA24B82EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050-Interfaces-reimplementation", "050-Interfaces-reimplementation\050-Interfaces-reimplementation.csproj", "{AEF1E561-0723-4772-A507-55FBA24B82EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050-Interfaces-cokbicimli", "050-Interfaces-cokbicimli\050-Interfaces-cokbicimli.csproj", "{7775B4C3-EC66-4BD2-90FC-463A42F74FFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050-Interfaces-cokbicimli", "050-Interfaces-cokbicimli\050-Interfaces-cokbicimli.csproj", "{7775B4C3-EC66-4BD2-90FC-463A42F74FFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050-Interfaces-turetme", "050-Interfaces-turetme\050-Interfaces-turetme.csproj", "{E35CB63F-2CF6-46EA-B20A-4A57BAB19CB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050-Interfaces-turetme", "050-Interfaces-turetme\050-Interfaces-turetme.csproj", "{E35CB63F-2CF6-46EA-B20A-4A57BAB19CB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050-Interfaces-property", "050-Interfaces-property\050-Interfaces-property.csproj", "{6DB7E68F-63A6-4744-904B-D2D614867855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050-Interfaces-property", "050-Interfaces-property\050-Interfaces-property.csproj", "{6DB7E68F-63A6-4744-904B-D2D614867855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051-IDisposable", "051-IDisposable\051-IDisposable.csproj", "{D43756FA-4EC3-4410-AF33-5BA8417BA4E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "051-IDisposable", "051-IDisposable\051-IDisposable.csproj", "{D43756FA-4EC3-4410-AF33-5BA8417BA4E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051-ICloneable", "051-ICloneable\051-ICloneable.csproj", "{BE7C7274-7751-4C20-ABF4-BA88AED8620A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "051-ICloneable", "051-ICloneable\051-ICloneable.csproj", "{BE7C7274-7751-4C20-ABF4-BA88AED8620A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052-File", "052-file-directory\052-File.csproj", "{5FD50706-D010-42F7-8B85-FB1ADA64A15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052-FileExists", "052-file-class\052-FileExists.csproj", "{65AE9ABB-EEAE-49AC-917A-418DB5911C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052-FileCopy", "052-FileCopy\052-FileCopy.csproj", "{3D12D9C7-3718-4967-9AE3-34B9BCB39159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052-FileReadAllText", "052-FileReadAllText\052-FileReadAllText.csproj", "{E7E6BDEC-4438-4532-B48B-17E2DEEC991D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052-FİleWriteAllText", "052-FİleWriteAllText\052-FİleWriteAllText.csproj", "{552B2F96-14BC-461B-AA3F-69F39178108B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052-FileReadAllBytes", "052-FileReadAllBytes\052-FileReadAllBytes.csproj", "{2CD909DC-B360-4965-8777-FC10F0F66187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052-FileReadAllLines", "052-FileReadAllLines\052-FileReadAllLines.csproj", "{33B417FB-0334-44E3-AEFA-3CFA371CAC0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "053-FileInfo", "053-FileInfo\053-FileInfo.csproj", "{D00C7AD2-E525-4E4E-A895-9CBE6EC44496}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -699,6 +715,38 @@ Global
 		{BE7C7274-7751-4C20-ABF4-BA88AED8620A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE7C7274-7751-4C20-ABF4-BA88AED8620A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE7C7274-7751-4C20-ABF4-BA88AED8620A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD50706-D010-42F7-8B85-FB1ADA64A15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD50706-D010-42F7-8B85-FB1ADA64A15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD50706-D010-42F7-8B85-FB1ADA64A15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD50706-D010-42F7-8B85-FB1ADA64A15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AE9ABB-EEAE-49AC-917A-418DB5911C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AE9ABB-EEAE-49AC-917A-418DB5911C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AE9ABB-EEAE-49AC-917A-418DB5911C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AE9ABB-EEAE-49AC-917A-418DB5911C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D12D9C7-3718-4967-9AE3-34B9BCB39159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D12D9C7-3718-4967-9AE3-34B9BCB39159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D12D9C7-3718-4967-9AE3-34B9BCB39159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D12D9C7-3718-4967-9AE3-34B9BCB39159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E6BDEC-4438-4532-B48B-17E2DEEC991D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E6BDEC-4438-4532-B48B-17E2DEEC991D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E6BDEC-4438-4532-B48B-17E2DEEC991D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E6BDEC-4438-4532-B48B-17E2DEEC991D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552B2F96-14BC-461B-AA3F-69F39178108B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552B2F96-14BC-461B-AA3F-69F39178108B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552B2F96-14BC-461B-AA3F-69F39178108B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552B2F96-14BC-461B-AA3F-69F39178108B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD909DC-B360-4965-8777-FC10F0F66187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD909DC-B360-4965-8777-FC10F0F66187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD909DC-B360-4965-8777-FC10F0F66187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD909DC-B360-4965-8777-FC10F0F66187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B417FB-0334-44E3-AEFA-3CFA371CAC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B417FB-0334-44E3-AEFA-3CFA371CAC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B417FB-0334-44E3-AEFA-3CFA371CAC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B417FB-0334-44E3-AEFA-3CFA371CAC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00C7AD2-E525-4E4E-A895-9CBE6EC44496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00C7AD2-E525-4E4E-A895-9CBE6EC44496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00C7AD2-E525-4E4E-A895-9CBE6EC44496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00C7AD2-E525-4E4E-A895-9CBE6EC44496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
